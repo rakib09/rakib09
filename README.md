@@ -1,24 +1,24 @@
 ### Hi there, I am Rakib Hasan, 
-from Bangladesh. Currently living in Dhaka and working as a Senior Software Engineer at BJIT Ltd., Dhaka, Bangladesh....👋
+from Bangladesh. Currently living in Dhaka and working as a Java Developer at BJIT INC., Tokyo, Japan....👋
 
 ### Career Overview
-As a professional software engineer, I have been part of many IT teams, played various roles and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Apache Kafka... etc. My primary area of expertise is to develop line-of-business transactional applications for workflow automation. Technically, I am more into the backend(System design, DevOps, Data analysis etc) than the front end.
+As a professional software engineer, I have been part of many IT teams, played various roles, and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Apache Kafka... etc. My primary area of expertise is to develop line-of-business transactional applications for workflow automation. Technically, I am more into the backend(System design, DevOps, Data analysis, etc) than the front end.
 
 ### Skils
-- Languages:  Java, C/C++, SQL
-- Frameworks: Spring- (MVC, spring boot, webflux), Hibernate, Karate, 
+- Languages:  Java, SQL
+- Frameworks: Spring- (MVC, spring boot, web flux), Hibernate, Karate, 
 - Databases:  MySQL, PostgreSQL, MongoDB, DynamoDB, SQLite, realm
 - Domain Knowledge: Hospital, Health Care, Accounting, HRM, CRM
-- Devops: Jenkins, Docker, Kubernetes, Git
+- DevOps: Jenkins, Docker, Kubernetes, Git
 - Tools: IntellIJ IDEA, STS, Netbeans
 - Others: 
-    * Practice agile and scrum on different project
-    * Project Management: jira, redmine, trello, confluence
+    * Practice agile and scrum on a different project
+    * Project Management: Jira, Redmine, Trello, confluence
 
 ### Professional Certifications
 
 
-### Achievement as Competitve Programmer
+### Achievement as a Competitive Programmer
 
 ### Academic profile
 
